@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Homework_2
+namespace Homework_CS
 {
     internal class Program
     {
