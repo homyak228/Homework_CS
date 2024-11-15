@@ -4,12 +4,12 @@ namespace Homework_CS
 {
     internal class Program
     {
-        static void Exit()
+        public static void Exit()
         {
             Console.Write("Enter any key to exit...");
             Console.ReadKey();
         }
-        static void Main(string[] args)
+        public static void Homework(string[] args)
         {
             Console.Write("Enter number of exercise(1-5): ");
             byte ex = byte.Parse(Console.ReadLine());
